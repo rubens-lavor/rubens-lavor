@@ -2,6 +2,6 @@
 
 Sou Rubens!
 
-- 🔭 Estou Trabalhando no projeto de programaação 3 em c++
+- 🔭 Estou Trabalhando no projeto de programação  3 em c++
 - 🌱 Aprendendo sobre desenvolvimento web
 
