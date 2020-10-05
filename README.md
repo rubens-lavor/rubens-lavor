@@ -3,6 +3,6 @@
 Sou Rubens!
 
 - 🔭 Estou Trabalhando no projeto de programação  3 em c++
-- 🌱 Aprendendo sobre desenvolvimento web
+- 🌱 Descobrindo o mundo desenvolvimento web com JavaScript e seu ecosistema
 👋👋👋
 
