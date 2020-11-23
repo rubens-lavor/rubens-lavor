@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Sou Rubens</h1>
+<h1 align="center">Olá 👋 sou Rubens</h1>
 
 - 🌱 Descobrindo o mundo do desenvolvimento web com JavaScript e seu ecosistema
 ---
