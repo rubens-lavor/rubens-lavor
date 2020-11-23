@@ -1,6 +1,6 @@
-<h1 align="center">Olá 👋 sou Rubens</h1>
+<h1>Olá 👋 sou Rubens</h1>
 
-- 🌱 Descobrindo o mundo do desenvolvimento web com JavaScript e seu ecosistema
+🌱 Descobrindo o mundo do desenvolvimento web com JavaScript e seu ecosistema
 ---
 
 <h3 align="left">Languages and Tools:</h3>
