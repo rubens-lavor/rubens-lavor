@@ -2,8 +2,9 @@
 
 
 <p align="center">
-  
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=rubens-lavor&theme=blue-green)
+
+![rubens-lavor](https://github-readme-stats.vercel.app/api/top-langs/?username=rubens-lavor&theme=highcontrast)
+
 
 </p>
 
