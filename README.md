@@ -1,12 +1,9 @@
 # Hello World! 🖖
 
 
-<p align="center">
 
-![rubens-lavor](https://github-readme-stats.vercel.app/api/top-langs/?username=rubens-lavor&theme=highcontrast)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubens-lavor&layout=compact&langs_count=6&theme=highcontrast"/>
 
-
-</p>
 
 
 ## 💻 Technologies & Tools
