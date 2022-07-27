@@ -1,6 +1,10 @@
 # Hello World! 🖖
 
+Sou estudante de Bacharelado em Ciência e Tecnologia pela Universidade Federal de Santa Catarina, um curso mais voltado para matemática e ciência da computação, lá eu aprendi sólidas bases de programação, estrutura de dados e orientação a objetos com C/C++. 
 
+Em 2020,  em paralelo com a faculdade, comecei a estudar desenvolvimento de sistemas web, tudo pelo youtube mesmo. Após 1 ano estudando ingressei no mercado de TI.
+
+ Atualmente trabalho desenvolvendo tanto front quanto back utilizando as linguagens Java, kotlin e Typescript.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubens-lavor&layout=compact&langs_count=6&theme=highcontrast"/>
 
