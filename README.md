@@ -7,10 +7,6 @@ Em 2020,  em paralelo com a faculdade, comecei a estudar desenvolvimento de sist
  Atualmente estou trabalhando com desenvolvimento Backend com Java e springboot.
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubens-lavor&layout=compact&langs_count=6&theme=highcontrast"/>
-
-
-
 ## 💻 Technologies & Tools
 
 <p align="center">
