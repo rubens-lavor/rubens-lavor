@@ -1,10 +1,11 @@
 # Hello World! 🖖
 
-Sou estudante de Bacharelado em Ciência e Tecnologia pela Universidade Federal de Santa Catarina, um curso mais voltado para matemática e ciência da computação, lá eu aprendi sólidas bases de programação, estrutura de dados e orientação a objetos com C/C++. 
+Sou estudante de Bacharelado em Ciência e Tecnologia pela Universidade Federal de Santa Catarina, um curso mais voltado para matemática e ciência da computação, lá eu aprendi sólidas bases de programação como estrutura de dados e orientação a objetos com C/C++. 
 
-Em 2020,  em paralelo com a faculdade, comecei a estudar desenvolvimento de sistemas web, tudo pelo youtube mesmo. Após 1 ano estudando ingressei no mercado de TI.
+Em 2020,  em paralelo com a faculdade, comecei a estudar desenvolvimento de sistemas web, tudo pelo youtube mesmo. No ano seguinte ingressei no mercado de TI.
 
- Atualmente trabalho desenvolvendo tanto front quanto back utilizando as linguagens Java, kotlin e Typescript.
+ Atualmente estou trabalhando com desenvolvimento Backend com Java e springboot.
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubens-lavor&layout=compact&langs_count=6&theme=highcontrast"/>
 
